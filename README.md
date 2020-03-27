@@ -6,6 +6,7 @@ Note that this criteria can be re-evaluated for any variation of a particular br
     - size
     - system dependencies
     - install footprint (how many places in the system are touched when installed)
+    - can multiple versions be installed?
 * Versatility
     - how many platforms can the same binaries run on?
     - cross-compilation? how many platforms can you compile for?
